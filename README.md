@@ -76,6 +76,7 @@ crontab -e
 ```
 ## Supported Dependencies 
 python 2.7.x 
+
 cassandra 3.x
 
 ## Maintainers
