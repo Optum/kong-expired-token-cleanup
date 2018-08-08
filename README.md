@@ -1,6 +1,6 @@
 # kong-expired-token-cleanup
 ## Overview
-A simple python script, which can be installed on any *nix server to manage expired token deletion in a kong database, and notify admins via email afterwards.
+A simple python script, which can be installed on any *nix server to manage expired token deletion in a kong cassandra database, and notify admins via email afterwards.
 
 The script will also report on token creation "abuse". This "abuse" is defined as a consumer who creates more than 100 tokens per day; the expectation being that a consumer should cache and reuuse tokens for their set duration.
 
