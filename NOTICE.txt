@@ -1,0 +1,26 @@
+Expired Token Cleanup Script
+Copyright 2018 Optum
+
+
+Project Description:
+====================
+
+The Expired Token Cleanuo script is a simple python-based script, which is desined to delete expired OAuth tokens from the Kong database, and notifyadmins via email. 
+
+
+
+Authors:
+Jeremy Justus, Ross Sbriscia © Optum 2018
+
+
+Added Files:
+============
+
+
+
+
+
+
+
+Modified Files:
+===============
