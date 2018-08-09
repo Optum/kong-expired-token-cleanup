@@ -8,7 +8,7 @@ Especially useful in environments where storage capacity is a conern.
 
 Email Message Body Sample Image:
 
-![alt text](http://url/to/img.png)
+![Email Body](https://github.com/Optum/kong-expired-token-cleanup/blob/master/MessageBodySample.png)
 
 ## Dependencies
 Python 2.7 - https://www.python.org/downloads/source/
