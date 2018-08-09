@@ -6,6 +6,10 @@ The script will also report on token creation "abuse". This "abuse" is defined a
 
 Especially useful in environments where storage capacity is a conern.
 
+Email Message Body Sample Image:
+
+![alt text](http://url/to/img.png)
+
 ## Dependencies
 Python 2.7 - https://www.python.org/downloads/source/
 
