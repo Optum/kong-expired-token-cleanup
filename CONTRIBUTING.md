@@ -24,7 +24,7 @@ We have some general coding guidelines to help ensure consistency in our project
 
 ### Languages
 
-*Lua*
+*Python*
 
 ## Pull Requests
 
